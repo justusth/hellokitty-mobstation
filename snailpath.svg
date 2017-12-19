@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="pattern-0" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <path d="M 0 0 L 50 0 L 50 100 L 0 100 Z" style="fill: black;"/>
+    </pattern>
+  </defs>
+  <ellipse transform="matrix(-0.004891, 0.999988, -1.000002, -0.001967, 443.677215, -78.328778)" cx="200.224" cy="202.317" rx="76.456" ry="102.031" style="fill: rgb(255, 251, 123); stroke: rgb(111, 214, 115); stroke-width: 0;"/>
+  <ellipse transform="matrix(-0.603858, 0.797092, -0.797092, -0.603858, 414.364649, 270.709121)" cx="187.89" cy="253.433" rx="51.686" ry="51.686" style="fill: rgb(131, 253, 152);"/>
+  <ellipse transform="matrix(-0.603858, 0.797092, -0.797092, -0.603858, 535.697213, 361.987411)" cx="187.89" cy="253.433" rx="51.686" ry="51.686" style="fill: rgb(77, 255, 116);"/>
+  <ellipse transform="matrix(-0.603858, 0.797092, -0.797092, -0.603858, 684.768325, 315.915908)" cx="187.89" cy="253.433" rx="51.686" ry="51.686" style="fill: rgb(31, 248, 53);"/>
+  <ellipse transform="matrix(-0.603858, 0.797092, -0.797092, -0.603858, 629.565746, 181.90827)" cx="133.628" cy="180.242" rx="36.759" ry="36.759" style="fill: rgb(0, 194, 74);"/>
+  <g transform="matrix(0.435925, 0.276005, -0.276005, 0.435925, 161.103363, 67.530739)">
+    <line style="stroke: rgb(108, 107, 107); stroke-width: 3.87631;" x1="112.984" y1="185.393" x2="104.869" y2="275.905"/>
+    <line style="stroke: rgb(108, 107, 107); stroke-width: 3.87631;" x1="105.234" y1="276.148" x2="91.496" y2="257.321"/>
+    <line style="stroke: rgb(108, 107, 107); stroke-width: 3.87631;" x1="104.515" y1="276.039" x2="125.572" y2="260.605"/>
+  </g>
+  <g transform="matrix(0.240925, -0.380519, 0.380519, 0.240925, 39.419201, 304.709137)">
+    <line style="stroke: rgb(108, 107, 107); stroke-width: 4.44072;" x1="112.984" y1="185.393" x2="104.869" y2="275.905"/>
+    <line style="stroke: rgb(108, 107, 107); stroke-width: 4.44072;" x1="105.234" y1="276.148" x2="91.496" y2="257.321"/>
+    <line style="stroke: rgb(108, 107, 107); stroke-width: 4.44072;" x1="104.515" y1="276.039" x2="125.572" y2="260.605"/>
+  </g>
+  <g transform="matrix(-0.235542, -0.51907, 0.462873, -0.210042, 215.779694, 444.278107)">
+    <line style="stroke: rgb(108, 107, 107); stroke-width: 3.7095;" x1="112.984" y1="185.393" x2="104.869" y2="275.905"/>
+    <line style="stroke: rgb(108, 107, 107); stroke-width: 3.7095;" x1="105.234" y1="276.148" x2="91.496" y2="257.321"/>
+    <line style="stroke: rgb(108, 107, 107); stroke-width: 3.7095;" x1="104.515" y1="276.039" x2="125.572" y2="260.605"/>
+  </g>
+  <g transform="matrix(-0.41036, -0.022172, 0.021579, -0.399394, 436.627899, 337.250885)">
+    <line style="stroke: rgb(108, 107, 107); stroke-width: 4.93258;" x1="112.984" y1="185.393" x2="104.869" y2="275.905"/>
+    <line style="stroke: rgb(108, 107, 107); stroke-width: 4.93258;" x1="105.234" y1="276.148" x2="91.496" y2="257.321"/>
+    <line style="stroke: rgb(108, 107, 107); stroke-width: 4.93258;" x1="104.515" y1="276.039" x2="125.572" y2="260.605"/>
+  </g>
+  <g transform="matrix(-0.163054, 0.344642, -0.344642, -0.163054, 451.696045, 154.504715)">
+    <line style="stroke: rgb(108, 107, 107); stroke-width: 4.50251;" x1="112.984" y1="185.393" x2="104.869" y2="275.905"/>
+    <line style="stroke: rgb(108, 107, 107); stroke-width: 4.50251;" x1="105.234" y1="276.148" x2="91.496" y2="257.321"/>
+    <line style="stroke: rgb(108, 107, 107); stroke-width: 4.50251;" x1="104.515" y1="276.039" x2="125.572" y2="260.605"/>
+  </g>
+  <text x="417.52" y="383.525" style="white-space: pre; fill: rgb(51, 51, 51); font-family: sans-serif; font-size: 48.1px;" transform="matrix(0.999999, 0, 0, 1, -334.592346, -100.221542)">1</text>
+  <text x="376.705" y="715.743" style="white-space: pre; fill: rgb(51, 51, 51); font-family: sans-serif; font-size: 44.9px;" transform="matrix(1.000001, 0, 0, 1, -168.47084, -341.272003)">2</text>
+  <text x="735.531" y="685.424" style="white-space: pre; fill: rgb(51, 51, 51); font-family: sans-serif; font-size: 47.4px;" transform="matrix(1, 0, 0, 0.999999, -379.620636, -357.165497)">3</text>
+  <text x="380.072" y="183.441" style="white-space: pre; fill: rgb(51, 51, 51); font-family: sans-serif; font-size: 24px;">retro</text>
+  <text x="208.361" y="123.984" style="white-space: pre; fill: rgb(51, 51, 51); font-family: sans-serif; font-size: 24px;">pause</text>
+</svg>
